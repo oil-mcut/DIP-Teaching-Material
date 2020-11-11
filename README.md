@@ -21,4 +21,4 @@
 
    
 
-***~Good Luck - Anto112~***
+***Good Luck - Anto112***
