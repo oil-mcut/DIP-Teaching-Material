@@ -26,7 +26,7 @@
 
 1. Copy the link and clone it into your local computer 
 
-   ![](.\assets\1.png)
+   ![](/assets/1.png)
 
    
 
