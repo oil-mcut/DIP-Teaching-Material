@@ -26,11 +26,11 @@
 
 1. Copy the link and clone it into your local computer 
 
-   ![](./assets/1.jpg)
+  ![](./assets/1.jpg)  
 
    
 
-   Open git bash in windows
+Open git bash in windows
 
    ![](./assets/2.png)
 
