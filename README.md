@@ -26,35 +26,35 @@
 
 1. Copy the link and clone it into your local computer 
 
-   ![](assets\1.png)
+   ![](./assets/1.jpg)
 
    
 
    Open git bash in windows
 
-   ![](assets\2.png)
+   ![](./assets/2.png)
 
 2. Running the code and modify it
 
 3. Make a branch
 
-   ![](assets\3.png)
+   ![](./assets/3.png)
 
 4. Upload
 
-   ![](D:\DIP-Teaching-Material\assets\4.png)
+   ![](./assets/4.png)
 
    After success upload, the repository has another branch
 
-   ![](assets\5.png)
+   ![](./assets/5.png)
 
 5. Pull request
 
-   ![](assets\6.png)
+   ![](./assets/6.png)
 
    Then your request will available in repository
 
-   ![](assets\7.png)
+   ![](./assets/7.png)
 
 
 
