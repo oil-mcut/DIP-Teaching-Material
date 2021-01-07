@@ -1,66 +1,7 @@
 # Teaching Material for DIP Class
 
-### 1. Running the code
+this is by marvin M08158052
+the second upload contain modification from chapter 3 to chapter 12
 
-1. Clone this repository
-
-   ```
-   $ git clone https://github.com/oil-mcut/DIP-Teaching-Material.git
-   ```
-
-2. Setup environment
-
-   ```
-   $ cd DIP-Teaching-Material
-   $ pip3 install -r requirments.txt
-   ```
-
-3. Running Jupyter notebook
-
-   ```
-   $ jupyter notebook
-   ```
-
-
-### 2. Guidance to make a branch and pull request
-
-1. Copy the link and clone it into your local computer 
-
-  ![](./assets/1.jpg)  
-
-   
-
-Open git bash in windows
-
-   ![](./assets/2.png)
-
-2. Running the code and modify it
-
-3. Make a branch
-
-   ![](./assets/3.png)
-
-4. Upload
-
-   ![](./assets/4.png)
-
-   After success upload, the repository has another branch
-
-   ![](./assets/5.png)
-
-5. Pull request
-
-   ![](./assets/6.png)
-
-   Then your request will available in repository
-
-   ![](./assets/7.png)
-
-
-
-
-
-
-
-***Good Luck - Anto112***
-
+the edited files are saved in the format of CHAPTERXX_EDITED.ipynb
+example: for chapter 10 that has modified by me has the name of CHAPTER10_EDITED.ipynb
