@@ -22,45 +22,55 @@
    ```
 
 
-### 2. Guidance to make a branch and pull request
+### 2. Guidance to make do assignment and pull request
 
-1. Copy the link and clone it into your local computer 
+1. Go to the link and fork it into your GitHub account
 
-  ![](./assets/1.jpg)  
+   ![](D:\New folder\DIP-Teaching-Material\assets\1.png)
+
+2.  After you fork, clone the repository to your local computer
+
+   ![](./assets/1-1.png)  
 
    
 
-Open git bash in windows
+​	Open git bash in windows
 
-   ![](./assets/2.png)
+   	![](./assets/2-1.png)
 
-2. Running the code and modify it
+3. Running the code and modify it
 
-3. Make a branch
+4. Upload your code to your repository in GitHub account
 
-   ![](./assets/3.png)
+   ![](./assets/6-1.png)
 
-4. Upload
+After success upload, then go to GitHub website and open pull request
 
-   ![](./assets/4.png)
-
-   After success upload, the repository has another branch
-
-   ![](./assets/5.png)
+![](./assets/7-1.png)
 
 5. Pull request
 
    ![](./assets/6.png)
 
-   Then your request will available in repository
+   create pull request
 
-   ![](./assets/7.png)
+   ![](./assets/8-1.png)
+   
+   
+
+​		![](D:\New folder\DIP-Teaching-Material\assets\9-1.png)
+
+
+
+you success make a pull request, finish...
+
+![](D:\New folder\DIP-Teaching-Material\assets\10-1.png)
 
 
 
 
 
-
+****
 
 ***Good Luck - Anto112***
 
