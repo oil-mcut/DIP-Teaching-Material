@@ -1,0 +1,13 @@
+Chapter 10 Image Measurements
+- 10.1 labeling
+    - change picture
+- 10.2.1  Hough Line
+    - change picture
+- 10.2.2  Hough Circle
+    - change size
+- 10.3  Template Matching
+    - change tresholding
+- 10.4.1  FAST Corner Detector
+    - change picture
+- 10.4.2  Harris Corner Detector
+    - change picture and increase value for better resuld

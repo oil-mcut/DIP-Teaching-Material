@@ -1,0 +1,26 @@
+Chapter 5 image enhancement
+
+- 5.2 Pixel Transformation
+    - add image tansformation\
+- 5.3 Image Inverse
+    - change value to 127 and 255
+    - change to another image 
+- 5.4  Power Law Transformation
+    - add image for explanation 
+    - add image with different gamma ( 0,5 and 3)
+- 5.5  Log Transformation
+    - add image for explanation 
+    - change image and show picture
+- 5.6  Histogram Equalization
+    - change picture
+    - show histogram from image input and output
+- 5.7  Contrast Limited Adaptive Histogram Equalization (CLAHE)
+    - Clib_limit = 0.01
+    - Clib_limit = 0.1
+- 5.8  Contrast Stretching
+    - show with deferent image
+- 5.9  Sigmoid Correction
+    - image for diferent Gain
+    - image with diferent gain ( 20 and 255)
+- 5.10  Local Contrast Normalization
+    - show with new image

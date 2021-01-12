@@ -1,0 +1,13 @@
+Chapter 6 Affine Transformation
+- instal scipy version 1.2.0
+- 6.1  Translation¶
+    - matriks for traslation
+    - change image
+- 6.2  Rotation
+    - matriks for rotation
+    - change image
+- 6.3  Scaling
+    - change image and value (4 * 2)
+- 6.4  Perspective Transformation
+- 6.5  Interpolation
+    - change value
