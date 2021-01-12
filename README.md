@@ -26,17 +26,16 @@
 
 1. Go to the link and fork it into your GitHub account
 
-   ![](D:\New folder\DIP-Teaching-Material\assets\1.png)
+   ![](./assets/1.png)
 
 2.  After you fork, clone the repository to your local computer
 
    ![](./assets/1-1.png)  
 
    
-
 ​	Open git bash in windows
 
-   	![](./assets/2-1.png)
+   ![](./assets/2-1.png)
 
 3. Running the code and modify it
 
@@ -58,13 +57,13 @@ After success upload, then go to GitHub website and open pull request
    
    
 
-​		![](D:\New folder\DIP-Teaching-Material\assets\9-1.png)
+​		![](./assets/9-1.png)
 
 
 
 you success make a pull request, finish...
 
-![](D:\New folder\DIP-Teaching-Material\assets\10-1.png)
+![](./assets/10-1.png)
 
 
 
