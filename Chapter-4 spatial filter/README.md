@@ -1,0 +1,36 @@
+Chapter 4 
+- 4.1 Filtering
+- 4.1.1 Mean filter
+    - change picture
+    - add mean filter to grayscale image
+    - advantages and disadvantages of mean filter
+- 4.1.2 Median filter
+    - change picture
+    - add median filter to grayscale image
+- 4.1.3 max Filter
+    - add new images
+    - can change value of max filter ( 1 to 10)
+- 4.1.4 Min Filter
+    - change picture
+    - loking for different between max and min filter
+    
+- 4.2 Edge Detection using Derivatives
+- 4.2.1 Sobel Filter
+    - change the picture
+- 4.2.2 prewitt filter
+    -use same picture eith 4.2.1
+- 4.2.3 Sobel and prewitt
+    - change to another picture
+- 4.2.4 Sobel and Prewitt horizontal and vertical
+    - see the deferent between sobel filter horizontal and vertical
+- 4.2.5 Canny Filter
+    - change to another picture
+- 4.2.6  Second Derivative Filters
+    - laplacian picture ( see what laplacian and show the result)
+    - show laplacian of gausian filter
+
+- 4.3  Frequency Filter
+    - magnitude spectrum
+    - low pass filter
+- 4.4  Shape Detecting Filter
+    - frangi filter
