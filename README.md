@@ -1,7 +1,7 @@
-# I Have Change in every chapter inside folder (README.md)
+
 # Aji Pamungkas Tri Nurcahyo 亞吉
 # M09158022
-
+### I Have Change in every chapter inside folder (README.md)
 # Teaching Material for DIP Class
 
 ### 1. Running the code
